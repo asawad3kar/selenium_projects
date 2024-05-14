@@ -1,0 +1,253 @@
+2024-05-05 17:43:22,798 : INFO : test_e2e : No of items : 4
+2024-05-05 17:43:22,799 : INFO : test_e2e : Getting all the items
+2024-05-05 17:43:22,866 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a8bf00398f94ddb0639c95e3414601ab", element="f.B59E47494BD7DEBACD0AEA8F2F54CAD0.d.58022889BAFCDCCE402EC59901547FE9.e.64")>
+2024-05-05 17:43:22,878 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a8bf00398f94ddb0639c95e3414601ab", element="f.B59E47494BD7DEBACD0AEA8F2F54CAD0.d.58022889BAFCDCCE402EC59901547FE9.e.64")>
+2024-05-05 17:43:22,899 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a8bf00398f94ddb0639c95e3414601ab", element="f.B59E47494BD7DEBACD0AEA8F2F54CAD0.d.58022889BAFCDCCE402EC59901547FE9.e.64")>
+2024-05-05 17:43:22,937 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a8bf00398f94ddb0639c95e3414601ab", element="f.B59E47494BD7DEBACD0AEA8F2F54CAD0.d.58022889BAFCDCCE402EC59901547FE9.e.64")>
+2024-05-05 17:43:23,647 : INFO : test_e2e : Entering country name
+2024-05-05 17:43:30,043 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-05 17:47:33,396 : INFO : test_e2e : No of items : 4
+2024-05-05 17:47:33,397 : INFO : test_e2e : Getting all the items
+2024-05-05 17:47:33,412 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="88f2b465e1bae314e7b0d1f81366188f", element="f.9F871F898FC1B038EFD0C6FBA1164640.d.BF1BDE232FDBC617EDB6AD083B777E5C.e.57")>
+2024-05-05 17:47:33,422 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="88f2b465e1bae314e7b0d1f81366188f", element="f.9F871F898FC1B038EFD0C6FBA1164640.d.BF1BDE232FDBC617EDB6AD083B777E5C.e.57")>
+2024-05-05 17:47:33,430 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="88f2b465e1bae314e7b0d1f81366188f", element="f.9F871F898FC1B038EFD0C6FBA1164640.d.BF1BDE232FDBC617EDB6AD083B777E5C.e.57")>
+2024-05-05 17:47:33,455 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="88f2b465e1bae314e7b0d1f81366188f", element="f.9F871F898FC1B038EFD0C6FBA1164640.d.BF1BDE232FDBC617EDB6AD083B777E5C.e.57")>
+2024-05-05 17:47:33,741 : INFO : test_e2e : Entering country name
+2024-05-05 17:47:39,357 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-05 17:49:49,190 : INFO : test_e2e : No of items : 4
+2024-05-05 17:49:49,191 : INFO : test_e2e : Getting all the items
+2024-05-05 17:49:49,229 : INFO : test_e2e : iphone X
+2024-05-05 17:49:49,252 : INFO : test_e2e : iphone X
+2024-05-05 17:49:49,299 : INFO : test_e2e : iphone X
+2024-05-05 17:49:49,318 : INFO : test_e2e : iphone X
+2024-05-05 17:49:49,924 : INFO : test_e2e : Entering country name
+2024-05-05 17:49:55,503 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-05 17:52:17,116 : INFO : test_e2e : No of items : 4
+2024-05-05 17:52:17,124 : INFO : test_e2e : Getting all the items
+2024-05-05 17:52:17,156 : INFO : test_e2e : iphone X
+2024-05-05 17:52:17,176 : INFO : test_e2e : iphone X
+2024-05-05 17:52:17,195 : INFO : test_e2e : iphone X
+2024-05-05 17:52:17,211 : INFO : test_e2e : iphone X
+2024-05-05 17:52:17,441 : INFO : test_e2e : Entering country name
+2024-05-05 17:52:23,113 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-05 17:58:41,830 : INFO : test_e2e : No of items : 4
+2024-05-05 17:58:41,831 : INFO : test_e2e : Getting all the items
+2024-05-05 17:58:41,860 : INFO : test_e2e : iphone X
+2024-05-05 17:58:41,878 : INFO : test_e2e : iphone X
+2024-05-05 17:58:41,897 : INFO : test_e2e : iphone X
+2024-05-05 17:58:41,915 : INFO : test_e2e : iphone X
+2024-05-05 17:58:42,169 : INFO : test_e2e : Entering country name
+2024-05-05 17:58:47,780 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-05 18:07:03,896 : INFO : test_e2e : No of items : 4
+2024-05-05 18:07:03,898 : INFO : test_e2e : Getting all the items
+2024-05-05 18:07:03,971 : INFO : test_e2e : iphone X
+2024-05-05 18:07:04,004 : INFO : test_e2e : iphone X
+2024-05-05 18:07:04,051 : INFO : test_e2e : iphone X
+2024-05-05 18:07:04,083 : INFO : test_e2e : iphone X
+2024-05-05 18:07:04,322 : INFO : test_e2e : Entering country name
+2024-05-05 18:07:09,840 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-05 18:08:22,880 : INFO : test_e2e : No of items : 4
+2024-05-05 18:08:22,884 : INFO : test_e2e : Getting all the items
+2024-05-05 18:08:22,943 : INFO : test_e2e : iphone X
+2024-05-05 18:08:23,026 : INFO : test_e2e : iphone X
+2024-05-05 18:08:23,053 : INFO : test_e2e : iphone X
+2024-05-05 18:08:23,104 : INFO : test_e2e : iphone X
+2024-05-05 18:08:23,330 : INFO : test_e2e : Entering country name
+2024-05-05 18:08:28,928 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-05 18:10:27,592 : INFO : test_e2e : No of items : 4
+2024-05-05 18:10:27,593 : INFO : test_e2e : Getting all the items
+2024-05-05 18:10:27,663 : INFO : test_e2e : Selecting Blackberry
+2024-05-05 18:10:28,044 : INFO : test_e2e : Entering country name
+2024-05-05 18:10:33,730 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-05 18:15:12,718 : INFO : test_formSubmission : {'name': 'Nikhil Asawadekar', 'email': 'NA@gmail.com', 'password': 'NikPass', 'gender': 'Male', 'dob': '18-08-1991'}
+2024-05-05 18:15:14,212 : INFO : test_formSubmission : {'name': 'Divya Asawadekar', 'email': 'DA@gmail.com', 'password': 'DPass', 'gender': 'Female', 'dob': '18-08-1992'}
+2024-05-05 18:15:14,212 : INFO : test_formSubmission : {'name': 'Divya Asawadekar', 'email': 'DA@gmail.com', 'password': 'DPass', 'gender': 'Female', 'dob': '18-08-1992'}
+2024-05-05 18:15:15,703 : INFO : test_formSubmission : {'name': 'Gauri Asawadekar', 'email': 'GA@gmail.com', 'password': 'GPass', 'gender': 'Female', 'dob': '18-08-1993'}
+2024-05-05 18:15:15,703 : INFO : test_formSubmission : {'name': 'Gauri Asawadekar', 'email': 'GA@gmail.com', 'password': 'GPass', 'gender': 'Female', 'dob': '18-08-1993'}
+2024-05-05 18:15:15,703 : INFO : test_formSubmission : {'name': 'Gauri Asawadekar', 'email': 'GA@gmail.com', 'password': 'GPass', 'gender': 'Female', 'dob': '18-08-1993'}
+2024-05-05 18:15:17,394 : INFO : test_formSubmission : {'name': 'Gargi Deore', 'email': 'GD@gmail.com', 'password': 'NikPass', 'gender': 'Female', 'dob': '18-08-1994'}
+2024-05-05 18:15:17,394 : INFO : test_formSubmission : {'name': 'Gargi Deore', 'email': 'GD@gmail.com', 'password': 'NikPass', 'gender': 'Female', 'dob': '18-08-1994'}
+2024-05-05 18:15:17,394 : INFO : test_formSubmission : {'name': 'Gargi Deore', 'email': 'GD@gmail.com', 'password': 'NikPass', 'gender': 'Female', 'dob': '18-08-1994'}
+2024-05-05 18:15:17,394 : INFO : test_formSubmission : {'name': 'Gargi Deore', 'email': 'GD@gmail.com', 'password': 'NikPass', 'gender': 'Female', 'dob': '18-08-1994'}
+2024-05-05 18:17:43,698 : INFO : test_formSubmission : Running tests for Nikhil Asawadekar
+2024-05-05 18:17:46,413 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-05 18:17:46,413 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-05 18:17:49,066 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-05 18:17:49,066 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-05 18:17:49,066 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-05 18:17:51,083 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-05 18:17:51,083 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-05 18:17:51,083 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-05 18:17:51,083 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-05 19:33:53,522 : INFO : test_formSubmission : Running tests for Nikhil Asawadekar
+2024-05-05 19:33:56,578 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-05 19:33:56,578 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-05 19:33:59,086 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-05 19:33:59,086 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-05 19:33:59,086 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-05 19:34:01,201 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-05 19:34:01,201 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-05 19:34:01,201 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-05 19:34:01,201 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-05 19:38:59,165 : INFO : test_formSubmission : Running tests for Nikhil Asawadekar
+2024-05-05 19:39:02,810 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-05 19:39:02,810 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-05 19:39:05,830 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-05 19:39:05,830 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-05 19:39:05,830 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-05 19:39:08,021 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-05 19:39:08,021 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-05 19:39:08,021 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-05 19:39:08,021 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-05 20:43:01,834 : INFO : test_e2e : No of items : 4
+2024-05-05 20:43:01,838 : INFO : test_e2e : Getting all the items
+2024-05-05 20:43:01,963 : INFO : test_e2e : Selecting Blackberry
+2024-05-05 20:43:02,670 : INFO : test_e2e : Entering country name
+2024-05-05 20:43:08,611 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-05 20:43:15,643 : INFO : test_formSubmission : Running tests for Nikhil Asawadekar
+2024-05-05 20:43:18,344 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-05 20:43:18,344 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-05 20:43:20,395 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-05 20:43:20,395 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-05 20:43:20,395 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-05 20:43:23,836 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-05 20:43:23,836 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-05 20:43:23,836 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-05 20:43:23,836 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:16:57,492 : INFO : test_e2e : No of items : 4
+2024-05-08 15:16:57,493 : INFO : test_e2e : Getting all the items
+2024-05-08 15:16:57,630 : INFO : test_e2e : Selecting Blackberry
+2024-05-08 15:16:58,657 : INFO : test_e2e : Entering country name
+2024-05-08 15:17:04,593 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-08 15:17:15,639 : INFO : test_formSubmission : Running tests for Nikhil Asawadekar
+2024-05-08 15:17:20,421 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-08 15:17:20,421 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-08 15:17:25,138 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 15:17:25,138 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 15:17:25,138 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 15:17:30,937 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:17:30,937 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:17:30,937 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:17:30,937 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:26:57,080 : INFO : test_e2e : No of items : 4
+2024-05-08 15:26:57,083 : INFO : test_e2e : Getting all the items
+2024-05-08 15:26:57,232 : INFO : test_e2e : Selecting Blackberry
+2024-05-08 15:26:58,011 : INFO : test_e2e : Entering country name
+2024-05-08 15:27:04,079 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-08 15:27:14,997 : INFO : test_formSubmission : Running tests for Nikhil Asawadekar
+2024-05-08 15:27:19,539 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-08 15:27:19,539 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-08 15:27:24,067 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 15:27:24,067 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 15:27:24,067 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 15:27:29,191 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:27:29,191 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:27:29,191 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:27:29,191 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:29:47,599 : INFO : test_e2e : No of items : 4
+2024-05-08 15:29:47,600 : INFO : test_e2e : Getting all the items
+2024-05-08 15:29:47,808 : INFO : test_e2e : Selecting Blackberry
+2024-05-08 15:29:48,787 : INFO : test_e2e : Entering country name
+2024-05-08 15:29:58,005 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-08 15:30:14,543 : INFO : test_formSubmission : Running tests for Nikhil Asawadekar
+2024-05-08 15:30:20,181 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-08 15:30:20,181 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-08 15:30:25,654 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 15:30:25,654 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 15:30:25,654 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 15:30:30,552 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:30:30,552 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:30:30,552 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:30:30,552 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:42:57,211 : INFO : test_e2e : No of items : 4
+2024-05-08 15:42:57,211 : INFO : test_e2e : Getting all the items
+2024-05-08 15:42:57,474 : INFO : test_e2e : Selecting Blackberry
+2024-05-08 15:42:58,214 : INFO : test_e2e : Entering country name
+2024-05-08 15:43:05,179 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-08 15:43:13,369 : INFO : test_formSubmission : Running tests for Nikhil Asawadekar
+2024-05-08 15:43:16,729 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-08 15:43:16,729 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-08 15:43:18,872 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 15:43:18,872 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 15:43:18,872 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 15:43:21,190 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:43:21,190 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:43:21,190 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:43:21,190 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:56:43,073 : INFO : test_e2e : No of items : 4
+2024-05-08 15:56:43,078 : INFO : test_e2e : Getting all the items
+2024-05-08 15:56:43,430 : INFO : test_e2e : Selecting Blackberry
+2024-05-08 15:56:44,328 : INFO : test_e2e : Entering country name
+2024-05-08 15:56:50,471 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-08 15:57:02,604 : INFO : test_formSubmission : Running tests for Nikhil Asawadekar
+2024-05-08 15:57:07,526 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-08 15:57:07,526 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-08 15:57:12,415 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 15:57:12,415 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 15:57:12,415 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 15:57:18,593 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:57:18,593 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:57:18,593 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 15:57:18,593 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 17:05:37,277 : INFO : test_e2e : No of items : 4
+2024-05-08 17:05:37,280 : INFO : test_e2e : Getting all the items
+2024-05-08 17:05:37,377 : INFO : test_e2e : Selecting Blackberry
+2024-05-08 17:05:37,850 : INFO : test_e2e : Entering country name
+2024-05-08 17:05:43,650 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-08 17:06:12,936 : INFO : test_formSubmission : Running tests for Nikhil Asawadekar
+2024-05-08 17:06:16,920 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-08 17:06:16,920 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-08 17:06:19,572 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 17:06:19,572 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 17:06:19,572 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-08 17:06:22,847 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 17:06:22,847 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 17:06:22,847 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-08 17:06:22,847 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-12 16:15:23,217 : INFO : test_e2e : No of items : 4
+2024-05-12 16:15:23,218 : INFO : test_e2e : Getting all the items
+2024-05-12 16:15:23,319 : INFO : test_e2e : Selecting Blackberry
+2024-05-12 16:15:23,754 : INFO : test_e2e : Entering country name
+2024-05-12 16:15:29,344 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-12 16:15:35,142 : INFO : test_formSubmission : Running tests for Nikhil Asawadekar
+2024-05-12 16:15:36,462 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-12 16:15:36,462 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-12 16:15:37,619 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-12 16:15:37,619 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-12 16:15:37,619 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-12 16:15:38,793 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-12 16:15:38,793 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-12 16:15:38,793 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-12 16:15:38,793 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-12 17:43:37,867 : INFO : test_e2e : No of items : 4
+2024-05-12 17:43:37,869 : INFO : test_e2e : Getting all the items
+2024-05-12 17:43:38,063 : INFO : test_e2e : Selecting Blackberry
+2024-05-12 17:43:38,343 : INFO : test_e2e : Entering country name
+2024-05-12 17:43:43,786 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-12 17:43:50,195 : INFO : test_formSubmission : Running tests for Nikhil Asawadekar
+2024-05-12 17:43:51,488 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-12 17:43:51,488 : INFO : test_formSubmission : Running tests for Divya Asawadekar
+2024-05-12 17:43:52,599 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-12 17:43:52,599 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-12 17:43:52,599 : INFO : test_formSubmission : Running tests for Gauri Asawadekar
+2024-05-12 17:43:53,839 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-12 17:43:53,839 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-12 17:43:53,839 : INFO : test_formSubmission : Running tests for Gargi Deore
+2024-05-12 17:43:53,839 : INFO : test_formSubmission : Running tests for Gargi Deore
